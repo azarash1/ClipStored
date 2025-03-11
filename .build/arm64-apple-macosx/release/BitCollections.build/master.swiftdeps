@@ -1,0 +1,114 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "ea98933081a2f7c313e5fe36b6bc78f4d79b1967ded3dfbe25580d1837ba74d1"
+build_start_time: [1741664977, 25548000]
+build_end_time: [1741664980, 418477000]
+inputs:
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+BitwiseOperations.swift"
+  : [1741664975, 42183376]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+ChunkedBitsIterators.swift"
+  : [1741664975, 42513793]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Codable.swift"
+  : [1741664975, 42609251]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Collection.swift"
+  : [1741664975, 42766835]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Copy.swift"
+  : [1741664975, 42901835]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+CustomReflectable.swift"
+  : [1741664975, 43032460]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Descriptions.swift"
+  : [1741664975, 43130294]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Equatable.swift"
+  : [1741664975, 43231794]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+ExpressibleByArrayLiteral.swift"
+  : [1741664975, 43332419]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+ExpressibleByStringLiteral.swift"
+  : [1741664975, 43426544]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Extras.swift"
+  : [1741664975, 43511961]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Fill.swift"
+  : [1741664975, 43597794]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Hashable.swift"
+  : [1741664975, 43698836]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Initializers.swift"
+  : [1741664975, 43814253]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Invariants.swift"
+  : [1741664975, 43904670]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+LosslessStringConvertible.swift"
+  : [1741664975, 44006712]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+RandomBits.swift"
+  : [1741664975, 44091503]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+RangeReplaceableCollection.swift"
+  : [1741664975, 44185878]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Shifts.swift"
+  : [1741664975, 44319629]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray+Testing.swift"
+  : [1741664975, 44409962]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray._UnsafeHandle.swift"
+  : [1741664975, 44537045]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitArray/BitArray.swift": [1741664975, 44629171]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+BidirectionalCollection.swift"
+  : [1741664975, 45268547]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Codable.swift": [1741664975, 45363463]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+CustomDebugStringConvertible.swift"
+  : [1741664975, 45465505]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+CustomReflectable.swift"
+  : [1741664975, 45551089]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+CustomStringConvertible.swift"
+  : [1741664975, 45644880]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Equatable.swift"
+  : [1741664975, 45788172]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+ExpressibleByArrayLiteral.swift"
+  : [1741664975, 45875214]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Extras.swift": [1741664975, 46019048]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Hashable.swift"
+  : [1741664975, 46103631]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Initializers.swift"
+  : [1741664975, 46249089]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Invariants.swift"
+  : [1741664975, 46352256]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Random.swift": [1741664975, 46457631]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra basics.swift"
+  : [1741664975, 46598923]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra conformance.swift"
+  : [1741664975, 46707590]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra formIntersection.swift"
+  : [1741664975, 46823424]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra formSymmetricDifference.swift"
+  : [1741664975, 46977007]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra formUnion.swift"
+  : [1741664975, 47086799]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra intersection.swift"
+  : [1741664975, 47200466]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isDisjoint.swift"
+  : [1741664975, 47299091]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isEqualSet.swift"
+  : [1741664975, 47396341]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isStrictSubset.swift"
+  : [1741664975, 47540841]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isStrictSuperset.swift"
+  : [1741664975, 47666883]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isSubset.swift"
+  : [1741664975, 47804217]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra isSuperset.swift"
+  : [1741664975, 47902008]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra subtract.swift"
+  : [1741664975, 47986967]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra subtracting.swift"
+  : [1741664975, 48111925]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra symmetricDifference.swift"
+  : [1741664975, 48218134]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+SetAlgebra union.swift"
+  : [1741664975, 48304884]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet+Sorted Collection APIs.swift"
+  : [1741664975, 48394467]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet.Counted.swift": [1741664975, 48516009]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet.Index.swift": [1741664975, 48632760]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet._UnsafeHandle.swift"
+  : [1741664975, 48762676]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/BitSet/BitSet.swift": [1741664975, 48870260]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/Shared/Range+Utilities.swift"
+  : [1741664975, 49184885]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/Shared/Slice+Utilities.swift"
+  : [1741664975, 49272760]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/Shared/UInt+Tricks.swift": [1741664975, 49363844]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/BitCollections/Shared/_Word.swift": [1741664975, 49472636]

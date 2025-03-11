@@ -1,0 +1,171 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "cb8978d7440e3bd9a174ed19a21931e4001bd6aa90312b024127c9f90879e4ca"
+build_start_time: [1741664977, 30577000]
+build_end_time: [1741664981, 655274000]
+inputs:
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_AncestorHashSlots.swift"
+  : [1741664975, 54138850]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_Bitmap.swift": [1741664975, 54262100]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_Bucket.swift": [1741664975, 54350517]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_Hash.swift": [1741664975, 54433684]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashLevel.swift"
+  : [1741664975, 54518518]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Builder.swift"
+  : [1741664975, 54632518]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Debugging.swift"
+  : [1741664975, 54714434]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Initializers.swift"
+  : [1741664975, 54834601]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Invariants.swift"
+  : [1741664975, 54919685]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Lookups.swift"
+  : [1741664975, 55226060]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Primitive Insertions.swift"
+  : [1741664975, 55317185]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Primitive Removals.swift"
+  : [1741664975, 55434852]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Primitive Replacement.swift"
+  : [1741664975, 55517602]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Storage.swift"
+  : [1741664975, 55638352]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural compactMapValues.swift"
+  : [1741664975, 55725894]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural filter.swift"
+  : [1741664975, 55813478]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural intersection.swift"
+  : [1741664975, 55932061]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural isDisjoint.swift"
+  : [1741664975, 56017228]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural isEqualSet.swift"
+  : [1741664975, 56102186]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural isSubset.swift"
+  : [1741664975, 56196228]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural mapValues.swift"
+  : [1741664975, 56279686]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural merge.swift"
+  : [1741664975, 56394103]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural subtracting.swift"
+  : [1741664975, 56528604]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural symmetricDifference.swift"
+  : [1741664975, 56661187]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Structural union.swift"
+  : [1741664975, 56764854]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Subtree Insertions.swift"
+  : [1741664975, 57026521]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Subtree Modify.swift"
+  : [1741664975, 57166771]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+Subtree Removals.swift"
+  : [1741664975, 57281521]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode+UnsafeHandle.swift"
+  : [1741664975, 57410105]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNode.swift"
+  : [1741664975, 57538813]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashNodeHeader.swift"
+  : [1741664975, 57627230]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashSlot.swift"
+  : [1741664975, 57708980]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashStack.swift"
+  : [1741664975, 57801064]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashTreeIterator.swift"
+  : [1741664975, 57891230]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_HashTreeStatistics.swift"
+  : [1741664975, 58019397]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_RawHashNode+UnsafeHandle.swift"
+  : [1741664975, 58122397]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_RawHashNode.swift"
+  : [1741664975, 58209522]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_UnmanagedHashNode.swift"
+  : [1741664975, 58305897]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/HashNode/_UnsafePath.swift"
+  : [1741664975, 58432064]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Codable.swift"
+  : [1741664975, 59064274]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Collection.swift"
+  : [1741664975, 59173065]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+CustomReflectable.swift"
+  : [1741664975, 59256816]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Debugging.swift"
+  : [1741664975, 59346566]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Descriptions.swift"
+  : [1741664975, 59434649]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Equatable.swift"
+  : [1741664975, 59534316]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+ExpressibleByDictionaryLiteral.swift"
+  : [1741664975, 59623274]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Filter.swift"
+  : [1741664975, 59760233]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Hashable.swift"
+  : [1741664975, 59850025]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Initializers.swift"
+  : [1741664975, 59992608]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Keys.swift"
+  : [1741664975, 60102650]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+MapValues.swift"
+  : [1741664975, 60189942]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Merge.swift"
+  : [1741664975, 60299942]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Sendable.swift"
+  : [1741664975, 60392109]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Sequence.swift"
+  : [1741664975, 60486692]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary+Values.swift"
+  : [1741664975, 60621442]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeDictionary/TreeDictionary.swift"
+  : [1741664975, 60735276]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Codable.swift"
+  : [1741664975, 60898526]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Collection.swift"
+  : [1741664975, 61008360]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+CustomReflectable.swift"
+  : [1741664975, 61093360]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Debugging.swift"
+  : [1741664975, 61182277]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Descriptions.swift"
+  : [1741664975, 61267110]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Equatable.swift"
+  : [1741664975, 61353235]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+ExpressibleByArrayLiteral.swift"
+  : [1741664975, 61438527]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Extras.swift"
+  : [1741664975, 61533152]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Filter.swift"
+  : [1741664975, 61640485]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Hashable.swift"
+  : [1741664975, 61727694]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Sendable.swift"
+  : [1741664975, 61808777]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+Sequence.swift"
+  : [1741664975, 61908903]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra Initializers.swift"
+  : [1741664975, 62014528]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra basics.swift"
+  : [1741664975, 62145903]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra formIntersection.swift"
+  : [1741664975, 62251903]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra formSymmetricDifference.swift"
+  : [1741664975, 62355820]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra formUnion.swift"
+  : [1741664975, 62453695]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra intersection.swift"
+  : [1741664975, 62607903]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isDisjoint.swift"
+  : [1741664975, 62714320]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isEqualSet.swift"
+  : [1741664975, 62844195]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isStrictSubset.swift"
+  : [1741664975, 63035862]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isStrictSuperset.swift"
+  : [1741664975, 63182862]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isSubset.swift"
+  : [1741664975, 63330154]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra isSuperset.swift"
+  : [1741664975, 63431321]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra subtract.swift"
+  : [1741664975, 63533238]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra subtracting.swift"
+  : [1741664975, 63635071]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra symmetricDifference.swift"
+  : [1741664975, 63763113]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet+SetAlgebra union.swift"
+  : [1741664975, 63896530]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HashTreeCollections/TreeSet/TreeSet.swift": [1741664975, 64002864]

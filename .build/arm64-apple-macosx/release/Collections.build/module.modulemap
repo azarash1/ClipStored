@@ -1,0 +1,4 @@
+module Collections {
+    header "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/Collections.build/Collections-Swift.h"
+    requires objc
+}

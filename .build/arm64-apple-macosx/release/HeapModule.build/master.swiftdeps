@@ -1,0 +1,12 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "e60dd12235318ddf356093da33900462e3ab259f1759315c745464d1c1d565df"
+build_start_time: [1741664977, 23249000]
+build_end_time: [1741664977, 657573000]
+inputs:
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HeapModule/Heap+Descriptions.swift": [1741664975, 64286572]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HeapModule/Heap+ExpressibleByArrayLiteral.swift"
+  : [1741664975, 64380156]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HeapModule/Heap+Invariants.swift": [1741664975, 64471781]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HeapModule/Heap+UnsafeHandle.swift": [1741664975, 64602698]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HeapModule/Heap.swift": [1741664975, 64743406]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/HeapModule/_HeapNode.swift": [1741664975, 65701491]

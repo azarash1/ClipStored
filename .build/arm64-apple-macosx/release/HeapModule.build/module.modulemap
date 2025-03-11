@@ -1,0 +1,4 @@
+module HeapModule {
+    header "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/HeapModule.build/HeapModule-Swift.h"
+    requires objc
+}

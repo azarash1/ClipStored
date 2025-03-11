@@ -1,0 +1,22 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "0124d123ce9f2892dc94efbeaf9e7cf211600b3b576293c08121a8ad8400a069"
+build_start_time: [1741664977, 20674000]
+build_end_time: [1741664978, 502497000]
+inputs:
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift": [1741664975, 51847639]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift": [1741664975, 52008264]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift": [1741664975, 52104056]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Descriptions.swift": [1741664975, 52185348]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift": [1741664975, 52275223]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift"
+  : [1741664975, 52358056]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift": [1741664975, 52490098]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift": [1741664975, 52575682]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift": [1741664975, 52663473]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift": [1741664975, 52938682]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift": [1741664975, 53048891]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/Deque.swift": [1741664975, 53190057]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift": [1741664975, 53543641]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift": [1741664975, 53624975]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift": [1741664975, 53720016]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift": [1741664975, 53840517]

@@ -1,0 +1,4 @@
+module OrderedCollections {
+    header "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/OrderedCollections.build/OrderedCollections-Swift.h"
+    requires objc
+}

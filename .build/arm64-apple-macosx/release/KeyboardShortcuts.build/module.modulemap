@@ -1,0 +1,4 @@
+module KeyboardShortcuts {
+    header "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/KeyboardShortcuts-Swift.h"
+    requires objc
+}

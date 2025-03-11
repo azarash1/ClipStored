@@ -1,0 +1,32 @@
+{
+  "": {
+    "dependencies": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipStored.d",
+    "object": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipStored.o",
+    "swift-dependencies": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/master.swiftdeps"
+  },
+  "/Users/amul/Desktop/random proj/clipstored/Sources/ClipStored/ClipStoredApp.swift": {
+    "object": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipStoredApp.swift.o",
+    "swiftmodule": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipStoredApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipStoredApp.swiftdeps"
+  },
+  "/Users/amul/Desktop/random proj/clipstored/Sources/ClipStored/ClipboardHistoryView.swift": {
+    "object": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipboardHistoryView.swift.o",
+    "swiftmodule": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipboardHistoryView~partial.swiftmodule",
+    "swift-dependencies": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipboardHistoryView.swiftdeps"
+  },
+  "/Users/amul/Desktop/random proj/clipstored/Sources/ClipStored/ClipboardManager.swift": {
+    "object": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipboardManager.swift.o",
+    "swiftmodule": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipboardManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/ClipboardManager.swiftdeps"
+  },
+  "/Users/amul/Desktop/random proj/clipstored/Sources/ClipStored/KeyboardShortcutManager.swift": {
+    "object": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/KeyboardShortcutManager.swift.o",
+    "swiftmodule": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/KeyboardShortcutManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/KeyboardShortcutManager.swiftdeps"
+  },
+  "/Users/amul/Desktop/random proj/clipstored/Sources/ClipStored/SettingsView.swift": {
+    "object": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/ClipStored.build/SettingsView.swiftdeps"
+  }
+}

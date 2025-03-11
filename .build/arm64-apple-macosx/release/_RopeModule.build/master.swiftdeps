@@ -1,0 +1,145 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "28785508246f509bbd7ce2740f15745752758a31c4747c0eceda5a08bd220703"
+build_start_time: [1741664977, 20677000]
+build_end_time: [1741664985, 572897000]
+inputs:
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Builder.swift"
+  : [1741664975, 77721132]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Contents.swift"
+  : [1741664975, 77832424]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Debugging.swift"
+  : [1741664975, 77954508]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Index.swift"
+  : [1741664975, 78116758]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Ingester.swift"
+  : [1741664975, 78272091]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Invariants.swift"
+  : [1741664975, 78375175]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Iterators.swift"
+  : [1741664975, 78473008]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Metrics.swift"
+  : [1741664975, 78616967]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString+Summary.swift"
+  : [1741664975, 78700509]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Basics/BigString.swift"
+  : [1741664975, 78793717]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Append and Insert.swift"
+  : [1741664975, 78999551]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Breaks.swift"
+  : [1741664975, 79088176]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Counts.swift"
+  : [1741664975, 79222634]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Description.swift"
+  : [1741664975, 79319134]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Indexing by Characters.swift"
+  : [1741664975, 79409635]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Indexing by UTF16.swift"
+  : [1741664975, 79510468]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+RopeElement.swift"
+  : [1741664975, 79675802]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk+Splitting.swift"
+  : [1741664975, 79832302]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Chunk/BigString+Chunk.swift"
+  : [1741664975, 79931177]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+BidirectionalCollection.swift"
+  : [1741664975, 80181886]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Comparable.swift"
+  : [1741664975, 80295844]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+CustomDebugStringConvertible.swift"
+  : [1741664975, 80384844]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+CustomStringConvertible.swift"
+  : [1741664975, 80469886]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Equatable.swift"
+  : [1741664975, 80559469]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+ExpressibleByStringLiteral.swift"
+  : [1741664975, 80656761]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Hashing.swift"
+  : [1741664975, 80747345]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+LosslessStringConvertible.swift"
+  : [1741664975, 80834886]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+RangeReplaceableCollection.swift"
+  : [1741664975, 80984387]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+Sequence.swift"
+  : [1741664975, 81132637]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Conformances/BigString+TextOutputStream.swift"
+  : [1741664975, 81263220]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Append.swift"
+  : [1741664975, 81482221]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Initializers.swift"
+  : [1741664975, 81639179]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Insert.swift"
+  : [1741664975, 81744971]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Managing Breaks.swift"
+  : [1741664975, 81908180]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+RemoveSubrange.swift"
+  : [1741664975, 82022513]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+ReplaceSubrange.swift"
+  : [1741664975, 82142472]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/BigString+Split.swift"
+  : [1741664975, 82246638]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Operations/Range+BigString.swift"
+  : [1741664975, 82342972]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UTF16View.swift"
+  : [1741664975, 82549472]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UTF8View.swift"
+  : [1741664975, 82694181]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigString+UnicodeScalarView.swift"
+  : [1741664975, 82849347]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UTF16View.swift"
+  : [1741664975, 83022931]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UTF8View.swift"
+  : [1741664975, 83161265]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring+UnicodeScalarView.swift"
+  : [1741664975, 83277223]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/BigString/Views/BigSubstring.swift"
+  : [1741664975, 83423057]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Builder.swift": [1741664975, 83841432]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Debugging.swift"
+  : [1741664975, 83932849]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+Invariants.swift"
+  : [1741664975, 84020641]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_Node.swift": [1741664975, 84122308]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_Storage.swift": [1741664975, 84223974]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_UnmanagedLeaf.swift"
+  : [1741664975, 84331933]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope+_UnsafeHandle.swift"
+  : [1741664975, 84483308]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/Rope.swift": [1741664975, 84572433]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeElement.swift": [1741664975, 84663142]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeMetric.swift": [1741664975, 84752475]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/RopeSummary.swift": [1741664975, 84838059]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopeItem.swift": [1741664975, 84924475]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopePath.swift": [1741664975, 85010642]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Basics/_RopeVersion.swift": [1741664975, 85097850]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Collection.swift"
+  : [1741664975, 85314309]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Index.swift"
+  : [1741664975, 85404684]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Conformances/Rope+Sequence.swift"
+  : [1741664975, 85503143]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Append.swift"
+  : [1741664975, 85656185]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Extract.swift"
+  : [1741664975, 85746560]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Find.swift": [1741664975, 85833477]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+ForEachWhile.swift"
+  : [1741664975, 85939102]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Insert.swift"
+  : [1741664975, 86081019]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Join.swift": [1741664975, 86168727]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+MutatingForEach.swift"
+  : [1741664975, 86255227]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Remove.swift"
+  : [1741664975, 86392144]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+RemoveSubrange.swift"
+  : [1741664975, 86503728]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Rope/Operations/Rope+Split.swift"
+  : [1741664975, 86586394]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/Optional Utilities.swift"
+  : [1741664975, 86731520]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/String Utilities.swift"
+  : [1741664975, 86871561]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/String.Index+ABI.swift"
+  : [1741664975, 86949520]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/RopeModule/Utilities/_CharacterRecognizer.swift"
+  : [1741664975, 87085270]

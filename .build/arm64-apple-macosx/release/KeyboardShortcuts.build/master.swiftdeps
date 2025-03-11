@@ -1,0 +1,18 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "b33edf21d749f715b9f84b7e11430cdaf8e5f65f35699eec60ed17308cd46c8b"
+build_start_time: [1741664976, 49813000]
+build_end_time: [1741664984, 978742000]
+inputs:
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/KeyboardShortcuts.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1741664975, 788282846]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/CarbonKeyboardShortcuts.swift"
+  : [1741664974, 902135977]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/Key.swift": [1741664974, 902268853]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/KeyboardShortcuts.swift": [1741664974, 902441561]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/NSMenuItem++.swift": [1741664974, 904615273]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/Name.swift": [1741664974, 904701272]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/Recorder.swift": [1741664974, 904803148]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/RecorderCocoa.swift": [1741664974, 904956940]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/Shortcut.swift": [1741664974, 905089940]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/Utilities.swift": [1741664974, 905220398]
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/KeyboardShortcuts/Sources/KeyboardShortcuts/ViewModifiers.swift": [1741664974, 905314607]

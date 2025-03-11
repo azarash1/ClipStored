@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/Collections.build/Collections.d",
+    "object": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/Collections.build/Collections.o",
+    "swift-dependencies": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/Collections.build/master.swiftdeps"
+  },
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/Collections/Collections.swift": {
+    "object": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/Collections.build/Collections.swift.o",
+    "swiftmodule": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/Collections.build/Collections~partial.swiftmodule",
+    "swift-dependencies": "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/Collections.build/Collections.swiftdeps"
+  }
+}

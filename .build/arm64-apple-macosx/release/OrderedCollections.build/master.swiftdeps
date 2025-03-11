@@ -1,0 +1,127 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "f8dc8b92e2470dd65cf4f5c38b5ed1ede4cbed7128d2ce1eff3ceeb0dbd12b07"
+build_start_time: [1741664977, 11906000]
+build_end_time: [1741664980, 263404000]
+inputs:
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Bucket.swift"
+  : [1741664975, 69875580]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+BucketIterator.swift"
+  : [1741664975, 69994455]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Constants.swift"
+  : [1741664975, 70087330]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+CustomStringConvertible.swift"
+  : [1741664975, 70170205]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Testing.swift"
+  : [1741664975, 70252372]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swift"
+  : [1741664975, 70346831]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable.swift"
+  : [1741664975, 70488456]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_Hashtable+Header.swift"
+  : [1741664975, 70627831]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Codable.swift"
+  : [1741664975, 71335915]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomReflectable.swift"
+  : [1741664975, 71411415]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Deprecations.swift"
+  : [1741664975, 71494665]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Descriptions.swift"
+  : [1741664975, 71570624]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements.SubSequence.swift"
+  : [1741664975, 71746416]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements.swift"
+  : [1741664975, 71829791]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swift"
+  : [1741664975, 71937249]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swift"
+  : [1741664975, 72022666]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Hashable.swift"
+  : [1741664975, 72104291]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift"
+  : [1741664975, 72179416]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Invariants.swift"
+  : [1741664975, 72264167]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial MutableCollection.swift"
+  : [1741664975, 72429708]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift"
+  : [1741664975, 72588834]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sendable.swift"
+  : [1741664975, 72663459]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift"
+  : [1741664975, 72759542]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Values.swift"
+  : [1741664975, 72905792]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary.swift"
+  : [1741664975, 72998251]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Codable.swift"
+  : [1741664975, 73144459]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomReflectable.swift"
+  : [1741664975, 73221251]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Descriptions.swift"
+  : [1741664975, 73294585]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Diffing.swift"
+  : [1741664975, 73429460]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Equatable.swift"
+  : [1741664975, 73515502]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ExpressibleByArrayLiteral.swift"
+  : [1741664975, 73594835]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Hashable.swift"
+  : [1741664975, 73685710]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Initializers.swift"
+  : [1741664975, 73819210]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Insertions.swift"
+  : [1741664975, 73950794]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Invariants.swift"
+  : [1741664975, 74053669]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial MutableCollection.swift"
+  : [1741664975, 74148336]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial RangeReplaceableCollection.swift"
+  : [1741664975, 74308253]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra formIntersection.swift"
+  : [1741664975, 74424128]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra formSymmetricDifference.swift"
+  : [1741664975, 74534920]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra formUnion.swift"
+  : [1741664975, 74648628]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra intersection.swift"
+  : [1741664975, 74748128]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isDisjoint.swift"
+  : [1741664975, 74893920]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isEqualSet.swift"
+  : [1741664975, 75008170]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isStrictSubset.swift"
+  : [1741664975, 75169337]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isStrictSuperset.swift"
+  : [1741664975, 75325671]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isSubset.swift"
+  : [1741664975, 75482504]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra isSuperset.swift"
+  : [1741664975, 75629504]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra subtract.swift"
+  : [1741664975, 75728838]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra subtracting.swift"
+  : [1741664975, 75842505]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra symmetricDifference.swift"
+  : [1741664975, 75999838]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra union.swift"
+  : [1741664975, 76095880]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swift"
+  : [1741664975, 76193797]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swift"
+  : [1741664975, 76367172]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swift"
+  : [1741664975, 76523172]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Sendable.swift"
+  : [1741664975, 76615131]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+SubSequence.swift"
+  : [1741664975, 76751548]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Testing.swift"
+  : [1741664975, 76854381]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnorderedView.swift"
+  : [1741664975, 76955548]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnstableInternals.swift"
+  : [1741664975, 77071840]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet.swift"
+  : [1741664975, 77190257]
+  ? "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/OrderedCollections/Utilities/_UnsafeBitset.swift"
+  : [1741664975, 77375423]

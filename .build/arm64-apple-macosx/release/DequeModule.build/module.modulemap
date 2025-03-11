@@ -1,0 +1,4 @@
+module DequeModule {
+    header "/Users/amul/Desktop/random proj/clipstored/.build/arm64-apple-macosx/release/DequeModule.build/DequeModule-Swift.h"
+    requires objc
+}

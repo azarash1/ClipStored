@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "7a47a4d037adedadeed4f241ef3af9f567d70f783c765bd2e3ba26d866f64ac5"
+build_start_time: [1741664985, 809301000]
+build_end_time: [1741664992, 22928000]
+inputs:
+  "/Users/amul/Desktop/random proj/clipstored/Sources/ClipStored/ClipStoredApp.swift": [1741664841, 225232520]
+  "/Users/amul/Desktop/random proj/clipstored/Sources/ClipStored/ClipboardHistoryView.swift": [1741663996, 887298639]
+  "/Users/amul/Desktop/random proj/clipstored/Sources/ClipStored/ClipboardManager.swift": [1741662549, 508725808]
+  "/Users/amul/Desktop/random proj/clipstored/Sources/ClipStored/KeyboardShortcutManager.swift": [1741655791, 688874155]
+  "/Users/amul/Desktop/random proj/clipstored/Sources/ClipStored/SettingsView.swift": [1741655791, 694053848]

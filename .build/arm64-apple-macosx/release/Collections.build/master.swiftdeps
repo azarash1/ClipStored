@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "defec51018d80fe64415e7d34a6417ed9f308192ea8652a0def1ce82e278c446"
+build_start_time: [1741664985, 666362000]
+build_end_time: [1741664985, 724642000]
+inputs:
+  "/Users/amul/Desktop/random proj/clipstored/.build/checkouts/swift-collections/Sources/Collections/Collections.swift": [1741664975, 51591763]
